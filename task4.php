@@ -41,7 +41,7 @@
 </head>
 <body>
     <div class="result">
-        <h2>Задание 4</h2>
+        <h2>Задание 4:</h2>
         <p>10 + 5 = <?= mathOperation(10, 5, "add") ?></p>
         <p>10 - 5 = <?= mathOperation(10, 5, "subtract") ?></p>
         <p>10 * 5 = <?= mathOperation(10, 5, "multiply") ?></p>
