@@ -36,7 +36,7 @@
 </head>
 <body>
     <div class="result">
-        <h2>Задание 2</h2>
+        <h2>Задание 2:</h2>
         <p><strong>Случайное $a:</strong> <?= $a2 ?></p>
         <p><strong>Числа:</strong> <?= $numbersFromA ?></p>
     </div>

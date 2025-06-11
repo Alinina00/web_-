@@ -16,7 +16,7 @@
 </head>
 <body>
     <div class="result">
-        <h2>Задание 6</h2>
+        <h2>Задание 6:</h2>
         <p>2<sup>3</sup> = <?= power(2, 3) ?></p>
     </div>
 </body>
